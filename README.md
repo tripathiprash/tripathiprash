@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Prashasti Tripathi, currently pursuing my B.Tech in Electronics Engineering at IIT BHU. Hailing from the culturally rich city of Varanasi, I exude a happy-go-lucky demeanor. An avid music enthusiast, I find solace in melodies, while my knack for drawing and painting has earned appreciation from those around me. Fascinated by mathematics and logical reasoning since school days, I gravitated towards a degree that mirrored my passion. However, upon delving into diverse fields in college, I realized my true calling lies within computer science. My journey has led me to delve into intriguing realms such as AI and Machine Learning, where my key projects have found footing. Alongside, I've contributed to a team-building website for our department's tech fest. Proficient in Frontend Web Development and skilled in ML, specifically in computer vision and dabbling in NLP, I'm also immersing myself in learning the basics of cloud computing through AWS.
 
 <!--
 **tripathiprash/tripathiprash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
